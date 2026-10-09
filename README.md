@@ -22,7 +22,7 @@ Echo updates itself from this page. The first time, Android asks you to allow Ec
 ## Features
 
 - **Chat notifications** for faction, company and private messages, grouped as conversations with each sender's name. Choose which chats notify you in Settings (Global and Trade are off by default).
-- **Keeps working in the background**, even with the screen off.
+- **Keeps working in the background**, even with the screen off, and refreshes Torn by itself if your chats stop coming through.
 - **Userscripts**: Menu → Scripts → Add script. Paste a Greasy Fork link, paste the code, or share a Greasy Fork page to Echo. Tampermonkey-style (`GM_*`) and Torn PDA-style scripts both work, including `###PDA-APIKEY###` with a key you set in Settings.
 - **Updates itself**, and starts again after your phone restarts.
 
